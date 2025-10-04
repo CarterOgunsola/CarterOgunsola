@@ -1,4 +1,21 @@
-## Hi there 👋
+## I’m Carter Ogunsola  
+
+Creative Web Developer. This is where I share experiments, creative web projects, and learning explorations across design, development, and motion.  
+
+---
+
+## 📂 Involved In
+- [Balky Studio](https://www.balky.studio) – Creative design & development studio
+---
+
+## 📫 Connect
+- Portfolio: [balky.studio](https://www.balky.studio)  
+- LinkedIn: [linkedin.com/in/carterogunsola](https://linkedin.com/in/carterogunsola)  
+- Twitter/X: [@carterogunsola](https://twitter.com/carterogunsola)  
+
+---
+
+⭐️ *Always experimenting, always shipping*  
 
 <!--
 **CarterOgunsola/CarterOgunsola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
