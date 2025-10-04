@@ -9,9 +9,10 @@ Creative Web Developer. This is where I share experiments, creative web projects
 ---
 
 ## 📫 Connect
-- Portfolio: [carterogunsola.com](https://www.carterogunsol.com)  
+- Portfolio: [carterogunsola.com](https://www.carterogunsola.com)  
 - LinkedIn: [linkedin.com/in/carterogunsola](https://linkedin.com/in/carterogunsola)  
-- Twitter/X: [@carterogunsola](https://twitter.com/carterogunsola)  
+- Twitter/X: [@carterogunsola](https://twitter.com/carterogunsola)
+- Instagram: [@carterogunsola.dev](https://instagram.com/@carterogunsola.dev)  
 
 ---
 
