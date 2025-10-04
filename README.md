@@ -9,7 +9,7 @@ Creative Web Developer. This is where I share experiments, creative web projects
 ---
 
 ## 📫 Connect
-- Portfolio: [balky.studio](https://www.balky.studio)  
+- Portfolio: [carterogunsola.com](https://www.carterogunsol.com)  
 - LinkedIn: [linkedin.com/in/carterogunsola](https://linkedin.com/in/carterogunsola)  
 - Twitter/X: [@carterogunsola](https://twitter.com/carterogunsola)  
 
