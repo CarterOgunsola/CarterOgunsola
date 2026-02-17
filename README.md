@@ -1,5 +1,4 @@
 ## I’m Carter Ogunsola
-Creative Web Developer. This is where I share experiments, creative web projects, and learning explorations across design, development, and motion.  
 A Creative Developer & Brand Engineer.
 ### 📂 Involved In
 - [Balky Studio](https://www.balky.studio) – Independent Design Studio
