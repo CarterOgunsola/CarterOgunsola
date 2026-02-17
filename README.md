@@ -4,7 +4,7 @@ A Creative Developer & Brand Engineer.
 - [Balky Studio](https://www.balky.studio) – Independent Design Studio
 - [Ody](https://app.odyn.dev) – Developer Owned Infra for Deploying Custom Code
 
- *When I'm not nerding out here, I'm travelling.*  
+ *When I'm not nerding out here, I'm travelling the world.*  
 
 <!--
 **CarterOgunsola/CarterOgunsola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
