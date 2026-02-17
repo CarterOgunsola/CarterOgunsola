@@ -2,7 +2,7 @@
 A Creative Developer & Brand Engineer.
 ### 📂 Involved In
 - [Balky Studio](https://www.balky.studio) – Independent Design Studio
-- [Ody](https://app.odyn.dev) – Developer Owned Infra for Deploying Custom Code
+- [Odyn](https://app.odyn.dev) – Developer Owned Infra for Deploying Custom Code
 
  *When I'm not nerding out here, I'm travelling the world.*  
 
