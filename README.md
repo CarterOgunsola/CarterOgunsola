@@ -1,22 +1,17 @@
 ## I’m Carter Ogunsola  
 
 Creative Web Developer. This is where I share experiments, creative web projects, and learning explorations across design, development, and motion.  
+A Creative Developer & Brand Engineer. 
 
 ---
 
 ## 📂 Involved In
-- [Balky Studio](https://www.balky.studio) – Creative design & development studio
+- [Balky Studio](https://www.balky.studio) – Independent Design Studio
+- - [Ody](https://app.odyn.dev) – Developer Owned Infra for Deploying Custom Code
 ---
 
-## 📫 Connect
-- Portfolio: [carterogunsola.com](https://www.carterogunsola.com)  
-- LinkedIn: [linkedin.com/in/carterogunsola](https://linkedin.com/in/carterogunsola)  
-- Twitter/X: [@carterogunsola](https://twitter.com/carterogunsola)
-- Instagram: [@carterogunsola.dev](https://www.instagram.com/carterogunsola.dev/)  
 
----
-
-⭐️ *Always experimenting, always shipping*  
+ *When I'm not nerding out here, I'm travelling.*  
 
 <!--
 **CarterOgunsola/CarterOgunsola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
